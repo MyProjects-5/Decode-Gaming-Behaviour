@@ -31,9 +31,9 @@ The objective was to gain insights into player behaviors, gaming trends, and str
 
 # 🛠️  Tools Used :-
 
-**◾ MySQL:**  Analyzed the game dataset and formulated queries to extract meaningful insights.
+**◾ MySQL :-**  Analyzed the game dataset and formulated queries to extract meaningful insights.
  
-**◾ PowerPoint:**  Created a compelling presentation to showcase the project findings.
+**◾ PowerPoint :-**  Created a compelling presentation to showcase the project findings.
 
 # Recommendations :-
 
