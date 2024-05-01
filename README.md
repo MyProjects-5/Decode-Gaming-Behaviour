@@ -12,7 +12,7 @@ The objective was to gain insights into player behaviors, gaming trends, and str
 
 **◾ Data Exploration :-**  Leveraged SQL queries to understand the dataset's structure, size, and temporal distribution.
  
-**◾ Analysis Queries :-**  Addressed specific inquiries to reveal insights on player activities, user segments, and game preferences.
+**◾ Analysis Queries :-**  Addressed specific inquiries to reveal insights on player activities and game preferences.
  
 **◾ Insights Extraction :-**  Interpreted the findings to grasp player behaviors, gaming patterns, and seasonal variations.
  
