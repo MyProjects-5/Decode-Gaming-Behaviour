@@ -8,13 +8,13 @@ The goal is to understand player behaviors, gaming trends, and enhance the perfo
 In this project, I delved into game data using SQL queries to uncover valuable insights and recommendations.                                     
 The objective was to gain insights into player behaviors, gaming trends, and strategic factors to enhance the gaming experience.
 
-   ### 📌  Key Steps :-
+### 📌  Key Steps :-
 **◾ Data Exploration :-**  Leveraged SQL queries to understand the dataset's structure, size, and temporal distribution.
 **◾ Analysis Queries :-**  Addressed specific inquiries to reveal insights on player activities and game preferences.
 **◾ Insights Extraction :-**  Interpreted the findings to grasp player behaviors, gaming patterns, and seasonal variations.
 **◾ Recommendations :-**  Provided actionable suggestions to optimize game strategies, enrich player experiences.
 
-  ### 📌  Key Insights :-
+### 📌  Key Insights :-
 1.  **Level Completion Patterns :-**  Analysis reveals that players tend to spend more time on higher levels, indicating a preference for challenging gameplay experiences and a desire to progress through the game's stages.
 2.  **Weapon Preference :-**  Certain weapons may be favored by players based on their effectiveness in different game scenarios, highlighting the importance of balancing weapon attributes to ensure a diverse and engaging gameplay experience.
 3.  **Lives Management :-**  Players demonstrate varying strategies in managing their lives throughout the game, with some opting to conserve lives for challenging stages while others spend them more freely to progress quickly.
