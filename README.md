@@ -22,7 +22,7 @@ In this project, I delved into game data using SQL queries to uncover valuable i
 **◾ MySQL :-**  Analyzed the game dataset and formulated queries to extract meaningful insights.                                    
 **◾ PowerPoint :-**  Created a compelling presentation to showcase the project findings.                          
 
-## Recommendations :-
+### 📌 Recommendations :-
 1.  **Level Design Diversity :-**  Introduce a variety of level designs and challenges to cater to different player preferences and skill levels, ensuring a dynamic and engaging gameplay experience for all players.          
 2.  **Weapon Balancing :-**  Continuously monitor player feedback and gameplay data to fine-tune weapon attributes and ensure a balanced and fair gameplay experience that rewards skill and strategy.        
 3.  **Lives System Optimization :-**  Implement a flexible lives system that allows players to earn or replenish lives through in-game achievements or rewards, providing players with a sense of progression and accomplishment.                          
