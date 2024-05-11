@@ -1,12 +1,10 @@
 # Decode Gaming Behaviour
 
 - **Overview :-**                                                       
-This project is part of my Mentorness internship ,where I analyzes a Game dataset using SQL queries to extract insights and recommendations.                                                     
-The goal is to understand player behaviors, gaming trends, and enhance the performance.
+This project is part of my Mentorness internship ,where I analyzes a Game dataset using SQL queries to extract insights and recommendations. The goal is to understand player behaviors, gaming trends, and enhance the performance.                         
 
 - **Tasks :-**                                                           
-In this project, I delved into game data using SQL queries to uncover valuable insights and recommendations.                                     
-The objective was to gain insights into player behaviors, gaming trends, and strategic factors to enhance the gaming experience.
+In this project, I delved into game data using SQL queries to uncover valuable insights and recommendations. The objective was to gain insights into player behaviors, gaming trends, and strategic factors to enhance the gaming experience.                       
 
 ### 📌  Key Steps :-
 **◾ Data Exploration :-**  Leveraged SQL queries to understand the dataset's structure, size, and temporal distribution.                            
@@ -31,7 +29,7 @@ The objective was to gain insights into player behaviors, gaming trends, and str
 4.  **Seasonal Events :-**  Introduce seasonal events or special challenges tied to real-world holidays or events to stimulate player engagement and foster a sense of community within the game.         
 
 ## Conclusion :-
-By analyzing gameplay data and uncovering player behaviors and preferences, this project provides valuable insights for optimizing game design and enhancing the overall gaming experience. Implementing the recommended recommendations can lead to increased player satisfaction, improved retention rates, and a more vibrant and active player community within the game.
+By analyzing gameplay data and uncovering player behaviors and preferences, this project provides valuable insights for optimizing game design and enhancing the overall gaming experience. Implementing the recommended recommendations can lead to increased player satisfaction, improved retention rates, and a more vibrant and active player community within the game.                 
 
 # Presentation Link :-                                         
 https://drive.google.com/file/d/1Jkb28-PMVXYFddWJXSanu-PuWbobWTRS/view?usp=drivesdk
