@@ -21,14 +21,14 @@ The objective was to gain insights into player behaviors, gaming trends, and str
 4.  **Seasonal Variation :-**  There may be fluctuations in player activity and engagement based on external factors such as holidays or school vacations, impacting overall gameplay patterns and strategies.
 
 ### 🛠️  Tools Used :-
-**◾ MySQL :-**  Analyzed the game dataset and formulated queries to extract meaningful insights.
-**◾ PowerPoint :-**  Created a compelling presentation to showcase the project findings.
+**◾ MySQL :-**  Analyzed the game dataset and formulated queries to extract meaningful insights.                                    
+**◾ PowerPoint :-**  Created a compelling presentation to showcase the project findings.                          
 
 ## Recommendations :-
-1.  **Level Design Diversity :-**  Introduce a variety of level designs and challenges to cater to different player preferences and skill levels, ensuring a dynamic and engaging gameplay experience for all players.
-2.  **Weapon Balancing :-**  Continuously monitor player feedback and gameplay data to fine-tune weapon attributes and ensure a balanced and fair gameplay experience that rewards skill and strategy.
-3.  **Lives System Optimization :-**  Implement a flexible lives system that allows players to earn or replenish lives through in-game achievements or rewards, providing players with a sense of progression and accomplishment.
-4.  **Seasonal Events :-**  Introduce seasonal events or special challenges tied to real-world holidays or events to stimulate player engagement and foster a sense of community within the game.
+1.  **Level Design Diversity :-**  Introduce a variety of level designs and challenges to cater to different player preferences and skill levels, ensuring a dynamic and engaging gameplay experience for all players.          
+2.  **Weapon Balancing :-**  Continuously monitor player feedback and gameplay data to fine-tune weapon attributes and ensure a balanced and fair gameplay experience that rewards skill and strategy.        
+3.  **Lives System Optimization :-**  Implement a flexible lives system that allows players to earn or replenish lives through in-game achievements or rewards, providing players with a sense of progression and accomplishment.                          
+4.  **Seasonal Events :-**  Introduce seasonal events or special challenges tied to real-world holidays or events to stimulate player engagement and foster a sense of community within the game.         
 
 ## Conclusion :-
 By analyzing gameplay data and uncovering player behaviors and preferences, this project provides valuable insights for optimizing game design and enhancing the overall gaming experience. Implementing the recommended recommendations can lead to increased player satisfaction, improved retention rates, and a more vibrant and active player community within the game.
