@@ -1,18 +1,18 @@
 # Decode Gaming Behaviour
 
-**Overview :-**                                                       
+- **Overview :-**                                                       
 This project is part of my Mentorness internship ,where I analyzes a Game dataset using SQL queries to extract insights and recommendations.                                                     
 The goal is to understand player behaviors, gaming trends, and enhance the performance.
 
-**Tasks :-**                                                           
+- **Tasks :-**                                                           
 In this project, I delved into game data using SQL queries to uncover valuable insights and recommendations.                                     
 The objective was to gain insights into player behaviors, gaming trends, and strategic factors to enhance the gaming experience.
 
 ### 📌  Key Steps :-
-**◾ Data Exploration :-**  Leveraged SQL queries to understand the dataset's structure, size, and temporal distribution.
-**◾ Analysis Queries :-**  Addressed specific inquiries to reveal insights on player activities and game preferences.
-**◾ Insights Extraction :-**  Interpreted the findings to grasp player behaviors, gaming patterns, and seasonal variations.
-**◾ Recommendations :-**  Provided actionable suggestions to optimize game strategies, enrich player experiences.
+**◾ Data Exploration :-**  Leveraged SQL queries to understand the dataset's structure, size, and temporal distribution.                            
+**◾ Analysis Queries :-**  Addressed specific inquiries to reveal insights on player activities and game preferences.                                 
+**◾ Insights Extraction :-**  Interpreted the findings to grasp player behaviors, gaming patterns, and seasonal variations.                                      
+**◾ Recommendations :-**  Provided actionable suggestions to optimize game strategies, enrich player experiences.                                       
 
 ### 📌  Key Insights :-
 1.  **Level Completion Patterns :-**  Analysis reveals that players tend to spend more time on higher levels, indicating a preference for challenging gameplay experiences and a desire to progress through the game's stages.
