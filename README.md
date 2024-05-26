@@ -1,4 +1,4 @@
-# Decode Gaming Behaviou
+# Decode Gaming Behaviour
 
 - **Overview :-**                                                       
 This project is part of my Mentorness internship ,where I analyzes a Game dataset using SQL queries to extract insights and recommendations. The goal is to understand player behaviors, gaming trends, and enhance the performance.                         
